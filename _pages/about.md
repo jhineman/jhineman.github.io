@@ -2,9 +2,6 @@
 permalink: /about/
 title: "Background, Resume, CV"
 ---
-
-# Jay Hineman
-
 ## Current
 I am a senior research scientist at Geometric Data Analtyics, Durham, NC. I have contributed to and lead projects involving mathematical approaches to data and machine learning including work on geometric and topological data analysis and deep reinforcement learning.
 
@@ -17,4 +14,6 @@ I have overseen both research and to software teams working on ML applications. 
 * Senior Mathematician, Geometric Data Analytics, Durham, NC, 2016--Present
 * Peter M. Curran Visiting Assistant Professor, Fordham University, Bronx, NY, 2013--2016
 
-## Industry Resume
+## Industry highlights
+
+## Academic highlights
