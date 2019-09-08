@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jay"
+  name   : "Jay Hineman"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "mathematics, code, agile development"
+  bio    : "mathematics, computers, agile development"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
