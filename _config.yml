@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jay Hineman Ph.D.
+title: Jay Hineman, Ph.D.
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -70,7 +70,7 @@ author:
       url: "https://twitter.com/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/jay-hineman-8279138"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jhineman"
@@ -82,7 +82,7 @@ footer:
       url: "https://twitter.com/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/jay-hineman-8279138"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jhineman"
