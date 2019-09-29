@@ -25,7 +25,8 @@ Hineman, J. L. & Neuberger, J. M. (2007), 'GNGA for general regions: Semilinear 
 
 Hineman, J. L. (2004), 'A Numerical Investigation of a Semilinear Elliptic PDE on a Family of Stadions', PhD thesis, Northern Arizona University.
 
-## Scholar
+## Google Scholar
 
+[My Google Scholar Page](https://scholar.google.com/citations?user=wtcFMGEAAAAJ&hl=en)
 
 
