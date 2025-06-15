@@ -59,15 +59,15 @@ plugins:
 
 author:
   name   : "me"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/2025-june-bio-photo.png"
   bio    : "applied mathematics and computers"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jhineman.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "X"
+      icon: "fab fa-fw fa-x-square"
+      url: "https://x.com/JayHineman"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/jay-hineman-8279138"
@@ -77,9 +77,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "X"
+      icon: "fab fa-fw fa-x-square"
+      url: "https://x.com/JayHineman"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/jay-hineman-8279138"
