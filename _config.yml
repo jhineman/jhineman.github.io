@@ -65,8 +65,8 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jhineman.github.io"
-    - label: "X"
-      icon: "fab fa-fw fa-x-square"
+    - label: "@JayHineman"
+      icon: "fab fa-fw x-twitter"
       url: "https://x.com/JayHineman"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -77,8 +77,8 @@ author:
 
 footer:
   links:
-    - label: "X"
-      icon: "fab fa-fw fa-x-square"
+    - label: "@JayHineman"
+      icon: "fab fa-fw x-twitter"
       url: "https://x.com/JayHineman"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
