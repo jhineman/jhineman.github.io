@@ -27,6 +27,6 @@ Hineman, J. L. (2004), 'A Numerical Investigation of a Semilinear Elliptic PDE o
 
 ## Google Scholar
 
-[My Google Scholar Page](https://scholar.google.com/citations?user=wtcFMGEAAAAJ&hl=en)
+[My Google Scholar Page](https://scholar.google.com/citations?user=cmdgvoUAAAAJ&hl=en)
 
 

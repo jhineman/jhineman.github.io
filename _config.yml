@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "me"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "mathematics, computers, agile development"
+  bio    : "applied mathematics and computers"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
